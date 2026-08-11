@@ -8,7 +8,7 @@ Chengwei Semiconductor focuses on high-purity fluid and gas delivery solutions f
 
 ---
 
-Official URL Link: (https://www.chengweisemi.com/)[Chengwei Semiconductor]
+Official URL Link: [Chengwei Semiconductor](https://www.chengweisemi.com/)
 
 ## 🏢 Company Overview
 
